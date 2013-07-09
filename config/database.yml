@@ -1,23 +1,23 @@
 development:
-adapter: postgresql
-encoding: unicode
-database: dev-todo-on-rails
-pool: 5
-username: leoo
-password: leoo
+  adapter: postgresql
+  encoding: unicode
+  database: dev-todo-on-rails
+  pool: 5
+  username: leoo
+  password: leoo
 
 test:
-adapter: postgresql
-encoding: unicode
-database: test-todo-on-rails
-pool: 5
-username: leoo
-password: leoo
+  adapter: postgresql
+  encoding: unicode
+  database: test-todo-on-rails
+  pool: 5
+  username: leoo
+  password: leoo
 
 production:
-adapter: postgresql
-encoding: unicode
-database: todo-on-rails
-pool: 5
-username: leoo
-password: leoo
+  adapter: postgresql
+  encoding: unicode
+  database: todo-on-rails
+  pool: 5
+  username: leoo
+  password: leoo
